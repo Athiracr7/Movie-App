@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "moviename": "Inception",
+      "rating": 8.8
+    },
+    {
+      "id": 2,
+      "moviename": "Interstellar",
+      "rating": 8.6
+    },
+    {
+      "id": 3,
+      "moviename": "The Dark Knight",
+      "rating": 9.0
+    },
+    {
+      "id": 4,
+      "moviename": "Avatar",
+      "rating": 7.9
+    }
+  ]
+  
